@@ -30,6 +30,7 @@ return require('packer').startup(function(use)
     use('ryanoasis/vim-devicons')
     use('jsit/disco.vim')
     use('romainl/vim-dichromatic')
+    use('puremourning/vimspector')
 
 	use {
 		'VonHeikemen/lsp-zero.nvim',
