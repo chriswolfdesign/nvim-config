@@ -26,6 +26,7 @@ return require('packer').startup(function(use)
     use('airblade/vim-gitgutter')
     use('scrooloose/nerdtree')
     use('szw/vim-maximizer')
+    use('tpope/vim-surround')
 
 	use {
 		'VonHeikemen/lsp-zero.nvim',
