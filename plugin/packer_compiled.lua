@@ -169,6 +169,11 @@ _G.packer_plugins = {
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-airline-themes",
     url = "https://github.com/vim-airline/vim-airline-themes"
   },
+  ["vim-devicons"] = {
+    loaded = true,
+    path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-devicons",
+    url = "https://github.com/ryanoasis/vim-devicons"
+  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-fugitive",
