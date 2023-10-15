@@ -28,6 +28,7 @@ return require('packer').startup(function(use)
     use('szw/vim-maximizer')
     use('tpope/vim-surround')
     use('ryanoasis/vim-devicons')
+    use('fatih/vim-go')
 
 	use {
 		'VonHeikemen/lsp-zero.nvim',
