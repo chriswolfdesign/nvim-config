@@ -29,6 +29,8 @@ return require('packer').startup(function(use)
     use('tpope/vim-surround')
     use('ryanoasis/vim-devicons')
     use('fatih/vim-go')
+    use('jsit/disco.vim')
+    use('romainl/vim-dichromatic')
 
 	use {
 		'VonHeikemen/lsp-zero.nvim',

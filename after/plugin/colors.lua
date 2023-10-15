@@ -1,9 +1,9 @@
 function ColorMyPencils(color)
-	color = color or "onedark"
-	vim.cmd.colorscheme(color)
+    color = color or "dichromatic"
+    vim.cmd.colorscheme(color)
+
+    vim.opt.colorcolumn = "0"
 end
 
 ColorMyPencils()
 
-vim.api.nvim_set_hl(0, "Normal", {ctermbg = "none"})
-vim.api.nvim_set_hl(0, "NonText", {ctermbg = "none"})

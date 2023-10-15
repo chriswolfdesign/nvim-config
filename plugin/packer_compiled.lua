@@ -89,6 +89,11 @@ _G.packer_plugins = {
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+  ["disco.vim"] = {
+    loaded = true,
+    path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/disco.vim",
+    url = "https://github.com/jsit/disco.vim"
+  },
   harpoon = {
     loaded = true,
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/harpoon",
@@ -173,6 +178,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-devicons",
     url = "https://github.com/ryanoasis/vim-devicons"
+  },
+  ["vim-dichromatic"] = {
+    loaded = true,
+    path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-dichromatic",
+    url = "https://github.com/romainl/vim-dichromatic"
   },
   ["vim-fugitive"] = {
     loaded = true,
