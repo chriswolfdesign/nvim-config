@@ -194,11 +194,6 @@ _G.packer_plugins = {
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-gitgutter",
     url = "https://github.com/airblade/vim-gitgutter"
   },
-  ["vim-go"] = {
-    loaded = true,
-    path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-go",
-    url = "https://github.com/fatih/vim-go"
-  },
   ["vim-maximizer"] = {
     loaded = true,
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-maximizer",

@@ -1,5 +1,5 @@
 function ColorMyPencils(color)
-    color = color or "dichromatic"
+    color = color or "onedark"
     vim.cmd.colorscheme(color)
 
     vim.opt.colorcolumn = "0"

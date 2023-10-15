@@ -28,7 +28,6 @@ return require('packer').startup(function(use)
     use('szw/vim-maximizer')
     use('tpope/vim-surround')
     use('ryanoasis/vim-devicons')
-    use('fatih/vim-go')
     use('jsit/disco.vim')
     use('romainl/vim-dichromatic')
 
