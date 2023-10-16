@@ -214,6 +214,11 @@ _G.packer_plugins = {
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-maximizer",
     url = "https://github.com/szw/vim-maximizer"
   },
+  ["vim-merginal"] = {
+    loaded = true,
+    path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-merginal",
+    url = "https://github.com/idanarye/vim-merginal"
+  },
   ["vim-surround"] = {
     loaded = true,
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/vim-surround",
