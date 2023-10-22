@@ -169,6 +169,11 @@ _G.packer_plugins = {
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
   },
+  ["refactoring.nvim"] = {
+    loaded = true,
+    path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/refactoring.nvim",
+    url = "https://github.com/ThePrimeagen/refactoring.nvim"
+  },
   tagbar = {
     loaded = true,
     path = "/home/cwolf/.local/share/nvim/site/pack/packer/start/tagbar",

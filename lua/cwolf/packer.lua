@@ -35,6 +35,13 @@ return require('packer').startup(function(use)
     use('rcarriga/nvim-dap-ui')
     use('idanarye/vim-merginal')
     use('preservim/tagbar')
+    use {
+        "ThePrimeagen/refactoring.nvim",
+        requires = {
+            { "nvim-lua/plenary.nvim" },
+            { "nvim-treesitter/nvim-treesitter" }
+        }
+    }
 
     use {
         'VonHeikemen/lsp-zero.nvim',
