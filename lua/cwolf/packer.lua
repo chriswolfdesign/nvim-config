@@ -34,6 +34,7 @@ return require('packer').startup(function(use)
     use('leoluz/nvim-dap-go')
     use('rcarriga/nvim-dap-ui')
     use('idanarye/vim-merginal')
+    use('preservim/tagbar')
 
     use {
         'VonHeikemen/lsp-zero.nvim',
